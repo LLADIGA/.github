@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# LLADIGA — Learning Language with Dialogue Games
+# <img src="https://lladiga.github.io/assets/img/lladiga-icon.png" alt="LLADIGA icon" width="32" align="absmiddle" /> LLADIGA — Learning Language with Dialogue Games
 
-**Official Website:** [https://lladiga.github.io](https://lladiga.github.io) · **Models Hub:** [huggingface.co/LLADIGA](https://huggingface.co/LLADIGA) · **Priority Programme:** [DFG SPP 2556 “LaSTing”](https://www.lasting-spp.org/)
+**[Home](https://lladiga.github.io)** · **[Research & Sandbox](https://lladiga.github.io/research/)** · **[Publications](https://lladiga.github.io/publications/)** · **[Community](https://lladiga.github.io/community/)** · **[Team](https://lladiga.github.io/team/)** · **[Models Hub](https://huggingface.co/LLADIGA)**
 
 ---
 
